@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="marcador-00-png" size="1.000000 1.000000"/>
+        <ImageTarget name="marcador-06-png" size="1.000000 1.000000"/>
+        <ImageTarget name="marcador-05-png" size="1.000000 1.000000"/>
+        <ImageTarget name="marcador-04-png" size="1.000000 1.000000"/>
+        <ImageTarget name="marcador-02-png" size="1.000000 1.000000"/>
+        <ImageTarget name="marcador-03-png" size="1.000000 1.000000"/>
+        <ImageTarget name="marcador-01-png" size="1.000000 1.000000"/>
+        <ImageTarget name="02-MultiTarget-02.Right" size="0.150000 0.150000"/>
+        <ImageTarget name="02-MultiTarget-02.Left" size="0.150000 0.150000"/>
+        <ImageTarget name="02-MultiTarget-02.Back" size="0.150000 0.150000"/>
+        <ImageTarget name="02-MultiTarget-02.Front" size="0.150000 0.150000"/>
+        <ImageTarget name="02-MultiTarget-02.Bottom" size="0.150000 0.150000"/>
+        <ImageTarget name="02-MultiTarget-02.Top" size="0.150000 0.150000"/>
+        <MultiTarget name="02-MultiTarget-02">
+            <Part name="02-MultiTarget-02.Left" translation="-0.07500000298023224 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="02-MultiTarget-02.Right" translation="0.07500000298023224 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="02-MultiTarget-02.Front" translation="0 0 0.07500000298023224" rotation="AD: 1 0 0 0"/>
+            <Part name="02-MultiTarget-02.Back" translation="0 0 -0.07500000298023224" rotation="AD: 0 1 0 180"/>
+            <Part name="02-MultiTarget-02.Top" translation="0 0.07500000298023224 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="02-MultiTarget-02.Bottom" translation="0 -0.07500000298023224 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>
