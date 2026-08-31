@@ -69,6 +69,7 @@ public class SimpleCloudRecoEventHandler : MonoBehaviour
 
         // Detiene el escaneo apagando temporalmente el componente
         mCloudRecoBehaviour.enabled = false;
+        Debug.Log("Los datos son: " + mTargetMetadata);
 
         // Si tienes una plantilla asignada, instancia la aumentación 3D sobre el objetivo
         if (ImageTargetTemplate != null)

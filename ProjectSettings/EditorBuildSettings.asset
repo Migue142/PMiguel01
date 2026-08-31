@@ -17,4 +17,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/03 - cylinder target.unity
     guid: 4a8197330d073a04f984d4ff477c7f96
+  - enabled: 1
+    path: Assets/Scenes/04 - cloud recognition.unity
+    guid: ce152559cdb5749458e52a2ade0f2f26
+  - enabled: 1
+    path: Assets/Scenes/08 - ground plane.unity
+    guid: 5004735ab64af114fa107445a03dce57
+  - enabled: 1
+    path: Assets/Scenes/09 - mid air.unity
+    guid: 1c24ef0c45933474992318d84da37fe6
   m_configObjects: {}
