@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="2.8886 -1.3722 0.3146 7.0660 2.5934 8.6405" area="5" targetId="b38a04e055484949ac037efd44297f83" name="Sala" pathAuthoring="b38a04e055484949ac037efd44297f83_authoring.glb" pathOcclusion="b38a04e055484949ac037efd44297f83_occlusion.3dt" pathNavMesh="b38a04e055484949ac037efd44297f83_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

@@ -21,9 +21,18 @@ EditorBuildSettings:
     path: Assets/Scenes/04 - cloud recognition.unity
     guid: ce152559cdb5749458e52a2ade0f2f26
   - enabled: 1
+    path: Assets/Scenes/05 - barcode.unity
+    guid: abe56c5e144ae0d4bb8095fb7fb4ac54
+  - enabled: 1
+    path: Assets/Scenes/07 - Vumarks.unity
+    guid: bb3bb4c9bf45ec345a04debccbd5732b
+  - enabled: 1
     path: Assets/Scenes/08 - ground plane.unity
     guid: 5004735ab64af114fa107445a03dce57
   - enabled: 1
     path: Assets/Scenes/09 - mid air.unity
     guid: 1c24ef0c45933474992318d84da37fe6
+  - enabled: 1
+    path: Assets/Scenes/10 - area target.unity
+    guid: ea65761e22839784d9a2e43a633dd04c
   m_configObjects: {}

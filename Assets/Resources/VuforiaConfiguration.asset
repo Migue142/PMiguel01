@@ -49,7 +49,8 @@ MonoBehaviour:
     thirdPartyARCoreClientDetected: 0
   playmode:
     mRecordingPath: C:/Users/MULTIMEDIA/Documents/00 - ESTUDIANTES/ARRIETA MEDINA
-      MIGUEL ANGEL/0 6 - GRABACIONES/0 6 - GRABACIONES/04 - Cloud Recognition - 02.mp4
+      MIGUEL ANGEL/0 6 - GRABACIONES/0 6 - GRABACIONES/10 - Area Target -  Sala DIM
+      - AC.mp4
     playModeType: 2
     mSimulatorInputActionAsset: {fileID: -944628639613478452, guid: eae7022f5cfd04e8189b1f372421b225,
       type: 3}
